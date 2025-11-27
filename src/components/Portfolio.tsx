@@ -15,7 +15,7 @@ const PROJECTS = [
     id: 1,
     key: "incampus",
     filter: "mobileApps" as PortfolioFilter,
-    image: new URL("../assets/images/portfolio/incampus.png", import.meta.url).href,
+    image: new URL("../assets/images/portfolio/inCampus.png", import.meta.url).href,
     url: undefined,
     urlAndroid: "https://play.google.com/store/apps/details?id=com.nkzu&hl=ru",
     urlIos: "https://apps.apple.com/kz/app/mynku/id6739483145",

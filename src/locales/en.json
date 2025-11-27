@@ -1,0 +1,459 @@
+{
+  "navbar": {
+    "brand": "Aura Studio",
+    "cta": "Start a project",
+    "links": {
+      "home": "Home",
+      "about": "About",
+      "pricing": "Pricing",
+      "contacts": "Contacts"
+    },
+    "language": {
+      "label": "Language",
+      "en": "EN",
+      "ru": "RU",
+      "kk": "KK"
+    }
+  },
+  "hero": {
+    "badge": "Powered by Advanced AI",
+    "titleLine1": "Aura Studio AI Assistants",
+    "titleLine2": "& Digital Products",
+    "subtitle": "We build smart AI systems, high-conversion websites, and mobile apps to grow your business.",
+    "primaryCta": "Get Free Consultation",
+    "secondaryCta": "See Portfolio"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Comprehensive digital solutions tailored to your business needs",
+    "items": {
+      "ai": {
+        "title": "AI Assistants & Automation",
+        "description": "Custom AI agents that understand your business, automate workflows, and provide intelligent customer support 24/7."
+      },
+      "web": {
+        "title": "Website Development",
+        "description": "High-performance, conversion-optimized websites built with modern technologies for maximum impact and scalability."
+      },
+      "mobile": {
+        "title": "Mobile App Development",
+        "description": "Native and cross-platform mobile applications with seamless UX, optimized for iOS and Android platforms."
+      },
+      "nocode": {
+        "title": "No-Code & Workflow Setup",
+        "description": "Rapid prototyping and automation solutions using leading no-code platforms to accelerate your digital transformation."
+      }
+    }
+  },
+  "timeline": {
+    "title": "How It Works",
+    "subtitle": "Our proven process from concept to launch",
+    "steps": {
+      "research": {
+        "title": "Research",
+        "description": "Deep dive into your business goals, target audience, and competitive landscape."
+      },
+      "prototype": {
+        "title": "Prototype",
+        "description": "Create interactive prototypes and wireframes for validation and feedback."
+      },
+      "build": {
+        "title": "Build",
+        "description": "Develop robust, scalable solutions using cutting-edge technologies."
+      },
+      "launch": {
+        "title": "Launch & Scale",
+        "description": "Deploy your product and continuously optimize for growth and performance."
+      }
+    }
+  },
+  "whyChooseUs": {
+    "title": "Why Choose Us",
+    "subtitle": "Partner with experts who deliver excellence",
+    "items": {
+      "speed": {
+        "title": "Fast Delivery",
+        "description": "Agile development process ensures rapid turnaround without compromising quality."
+      },
+      "scalability": {
+        "title": "Scalable Architecture",
+        "description": "Build solutions that grow with your business, handling increased demand seamlessly."
+      },
+      "communication": {
+        "title": "Transparent Communication",
+        "description": "Regular updates, clear timelines, and direct access to your development team."
+      },
+      "results": {
+        "title": "Measurable Results",
+        "description": "Data-driven approach with clear KPIs and analytics to track your success."
+      },
+      "futureProof": {
+        "title": "Future-Proof AI",
+        "description": "Leverage the latest AI technologies to stay ahead of the competition."
+      }
+    }
+  },
+  "portfolio": {
+    "title": "Our Work",
+    "subtitle": "Success stories from clients across industries",
+    "filters": {
+      "all": "All",
+      "websites": "Websites",
+      "mobileApps": "Mobile Apps",
+      "ai": "AI"
+    },
+    "projects": {
+      "agropulse": {
+        "title": "AgroPulse - MVP Solution for Agronomy",
+        "category": "AI",
+        "description": "MVP solution for agronomy that evaluates plantations and resources, analyzes crop conditions and provides recommendations for crop care, helping farmers make informed decisions"
+      },
+      "skoHubLibrary": {
+        "title": "SKO Hub Digital Library",
+        "category": "Websites",
+        "description": "Developed for SKO Hub. Modern platform for online library with book catalog, search and multilingual support. Works on digital tablets and actively used in regions"
+      },
+      "incampus": {
+        "title": "inCampus - Startup App for Universities",
+        "category": "Mobile Apps",
+        "description": "Modern student platform with AI assistant. Combines schedule, grades, deadlines, communication with teachers and all university events. Intelligent assistant analyzes workload, helps plan studies and reminds about important assignments"
+      },
+      "kuadmin": {
+        "title": "KuAdmin - Admin Panel for Kozybayev University",
+        "category": "Websites",
+        "description": "Developed for Kozybayev University. Website for managing inCampus app data. Administrative dashboard for managing students, applications, dormitory, voting and all university data"
+      }
+    }
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "subtitle": "Transparent pricing for every stage of your journey",
+    "selectPlan": "Choose plan",
+    "popularLabel": "Popular",
+    "tiers": {
+      "basic": {
+        "name": "Basic",
+        "price": "from $2,999",
+        "period": "per project",
+        "description": "Perfect for startups and small teams",
+        "features": [
+          "Landing page or simple website",
+          "Responsive design",
+          "Basic SEO optimisation",
+          "Form integrations",
+          "1 month of technical support",
+          "Up to 5 pages"
+        ]
+      },
+      "professional": {
+        "name": "Professional",
+        "price": "from $7,999",
+        "period": "per project",
+        "description": "Ideal for growing businesses",
+        "features": [
+          "Corporate website or SaaS platform",
+          "Custom UI/UX design",
+          "Advanced SEO optimisation",
+          "CMS integration",
+          "AI chatbot assistant",
+          "3 months of technical support",
+          "Up to 15 pages",
+          "API integrations"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "price": "from $20,000",
+        "period": "per project",
+        "description": "Comprehensive solutions for large organisations",
+        "features": [
+          "Full-scale SaaS platform or mobile app",
+          "Custom AI systems and automation",
+          "Multilingual and scalable infrastructure",
+          "Advanced analytics and dashboards",
+          "External systems integrations",
+          "Dedicated team",
+          "12 months of technical support",
+          "Unlimited pages",
+          "Priority support 24/7"
+        ]
+      }
+    }
+  },
+  "pricingPage": {
+    "badge": "Our solutions",
+    "title": "Pricing & services",
+    "subtitle": "Transparent prices with no hidden fees. Choose the perfect fit for your business.",
+    "sections": {
+      "websites": {
+        "badge": "Website Development",
+        "title": "Website Development Plans",
+        "subtitle": "From landing pages to scalable SaaS platforms",
+        "tiers": [
+          {
+            "key": "landing",
+            "name": "Landing Page",
+            "price": "from 350,000 ₸",
+            "period": "(~ $750)",
+            "description": "Perfect for startups and product launches",
+            "features": [
+              "Up to 5 screens",
+              "Custom responsive design",
+              "Basic SEO optimisation",
+              "Contact form",
+              "Google Analytics integration",
+              "1 month technical support",
+              "Timeline: 2–3 weeks"
+            ]
+          },
+          {
+            "key": "corporate",
+            "name": "Corporate Website",
+            "price": "from 1,200,000 ₸",
+            "period": "(~ $2,500)",
+            "description": "For companies with high requirements",
+            "popular": true,
+            "features": [
+              "Up to 20 pages",
+              "Custom UI/UX design",
+              "CMS admin panel (WordPress / Strapi / Custom)",
+              "Multilingual support",
+              "Advanced SEO optimisation",
+              "CRM integration",
+              "3 months support",
+              "Timeline: 4–6 weeks"
+            ]
+          },
+          {
+            "key": "saas",
+            "name": "SaaS Platform",
+            "price": "from 4,500,000 ₸",
+            "period": "(~ $9,500)",
+            "description": "Full-scale web application",
+            "features": [
+              "Unlimited pages",
+              "Custom functionality",
+              "Dashboard and analytics",
+              "API and integrations",
+              "User authentication",
+              "Payment systems",
+              "Scalable architecture",
+              "6 months support",
+              "Timeline: 8–12 weeks"
+            ]
+          }
+        ]
+      },
+      "mobileApps": {
+        "badge": "Mobile App Development",
+        "title": "Mobile App Development Plans",
+        "subtitle": "From MVP to Enterprise solutions for iOS and Android",
+        "tiers": [
+          {
+            "key": "mvp",
+            "name": "MVP Mobile App",
+            "price": "from 1,000,000 ₸",
+            "period": "(~ $2,100)",
+            "description": "For startups, hypothesis testing",
+            "features": [
+              "5–10 screens",
+              "React Native / Flutter",
+              "Authentication",
+              "Basic backend",
+              "Push notifications",
+              "Google Play publication",
+              "Timeline: 3–5 weeks"
+            ]
+          },
+          {
+            "key": "business",
+            "name": "Business App",
+            "price": "from 2,500,000 ₸",
+            "period": "(~ $5,300)",
+            "description": "Reliable solution for real processes",
+            "popular": true,
+            "features": [
+              "10–25 screens",
+              "Custom UI/UX",
+              "Chat, notifications, integrations",
+              "Advanced backend",
+              "CRM / ERP integrations",
+              "App Store and Play Market publication",
+              "Timeline: 6–10 weeks"
+            ]
+          },
+          {
+            "key": "enterpriseApp",
+            "name": "Enterprise Mobile App",
+            "price": "from 7,000,000 ₸",
+            "period": "(~ $14,800)",
+            "description": "Complex architecture, high load",
+            "features": [
+              "30+ screens",
+              "Microservice architecture",
+              "Real-time modules",
+              "Analytics, Big Data",
+              "Large system integrations",
+              "1 year support",
+              "Timeline: individual"
+            ]
+          }
+        ]
+      },
+      "ai": {
+        "badge": "AI & Automation",
+        "title": "AI solutions and automation pricing",
+        "subtitle": "Implement artificial intelligence to unlock new efficiency for your business",
+        "recommended": "Recommended",
+        "tiers": [
+          {
+            "key": "assistant",
+            "name": "AI assistant",
+            "price": "from 100,000 ₸",
+            "period": "(~ $210)",
+            "description": "Smart chatbot for your business. Suitable for small business, basic chatbots, simple integrations",
+            "popular": true,
+            "features": [
+              "Training on your data (basic)",
+              "Website or messenger integration",
+              "Multilingual support",
+              "Conversation analytics",
+              "1 month technical support",
+              "Timeline: 1–2 weeks",
+              "Advanced version: 300–700 thousand ₸"
+            ]
+          },
+          {
+            "key": "automation",
+            "name": "Process automation",
+            "price": "from 500,000 ₸",
+            "period": "(~ $1,050)",
+            "description": "AI systems for business optimization. Suitable for medium business, task automation, mini-AI systems",
+            "features": [
+              "Business process analysis",
+              "ML models for the task (simple/medium)",
+              "CRM / ERP integration",
+              "Routine automation",
+              "Dashboards and reporting",
+              "3 months technical support",
+              "Timeline: 3–6 weeks",
+              "Extended functionality: 1–3 million ₸"
+            ]
+          },
+          {
+            "key": "enterprise",
+            "name": "Enterprise AI",
+            "price": "from 1,500,000 ₸",
+            "period": "(~ $3,100)",
+            "description": "Comprehensive AI solutions for large business. Suitable for large business, complex integrations, big data",
+            "features": [
+              "Custom AI platforms",
+              "Big Data processing",
+              "Predictive analytics",
+              "Computer vision / NLP",
+              "Dedicated team",
+              "6–12 months technical support",
+              "Timeline: individual",
+              "Typical range: 3–15 million ₸"
+            ]
+          }
+        ]
+      }
+    },
+    "customCtaTitle": "Need a tailored solution?",
+    "customCtaDescription": "Contact us to discuss a custom project. We will design a solution perfectly aligned with your business goals.",
+    "customCtaButton": "Contact us"
+  },
+  "contacts": {
+    "badge": "Contacts",
+    "title": "Let's discuss your project",
+    "subtitle": "Ready to get started? Reach out in the way that suits you best or leave a request and we'll respond within 24 hours.",
+    "contactSectionTitle": "Get in touch",
+    "contactMethods": {
+      "email": "Email",
+      "whatsapp": "WhatsApp",
+      "telegram": "Telegram",
+      "office": "Office"
+    },
+    "workingHoursTitle": "Working hours",
+    "workingHours": {
+      "weekdays": "Monday - Friday: 09:00 - 19:00",
+      "saturday": "Saturday: 10:00 - 16:00",
+      "support": "Online support: 24/7"
+    },
+    "formTitle": "Send a message",
+    "officeAddress": "Almaty, Kazakhstan",
+    "selectedPlan": "Selected plan"
+  },
+  "forms": {
+    "nameLabel": "Your name *",
+    "namePlaceholder": "John Doe",
+    "emailLabel": "Email *",
+    "emailPlaceholder": "john@example.com",
+    "phoneLabel": "Phone",
+    "phonePlaceholder": "+1 (555) 123-45-67",
+    "messageLabel": "Message *",
+    "messagePlaceholder": "Tell us about your project...",
+    "submit": "Send message",
+    "privacyNote": "* Required fields. We do not share your data with third parties.",
+    "emailNotProvided": "Not provided",
+    "phoneNotProvided": "Not provided",
+    "planNotSelected": "Not selected"
+  },
+  "toast": {
+    "planSelected": "Plan selected: {{plan}}",
+    "planSelectedDescription": "Redirecting to contacts page...",
+    "formSubmitted": "Message sent!",
+    "formSubmittedDescription": "We will contact you within 24 hours.",
+    "formError": "Sending error",
+    "formErrorDescription": "Please try again later or contact us directly"
+  },
+  "about": {
+    "badge": "About",
+    "title": "Next-generation cyber digital agency",
+    "intro": "We craft digital products and AI systems that help businesses grow, optimise processes, and increase revenue. We design AI assistants, websites, and mobile applications from scratch, tailored to your business logic. We create an environment where business is automated, protected, scalable, and ready for the digital era.",
+    "features": {
+      "research": {
+        "title": "AI Growth Research",
+        "description": "In-depth analysis of business processes and AI implementations for maximum growth."
+      },
+      "solutions": {
+        "title": "Proprietary solutions and ML models",
+        "description": "Developing unique AI systems and machine learning models for your specific tasks."
+      },
+      "security": {
+        "title": "Cyber resilience",
+        "description": "Protected infrastructure and data security at every level."
+      },
+      "fullCycle": {
+        "title": "Full-cycle approach",
+        "description": "From idea to launch and scaling — a complete development cycle."
+      }
+    },
+    "stats": {
+      "projects": {
+        "number": "50+",
+        "label": "Projects launched"
+      },
+      "clients": {
+        "number": "98%",
+        "label": "Satisfied clients"
+      },
+      "support": {
+        "number": "24/7",
+        "label": "Support"
+      },
+      "experience": {
+        "number": "5+",
+        "label": "Years on the market"
+      }
+    }
+  },
+  "footer": {
+    "tagline": "Building the future of digital products with AI-powered solutions. Transform your business with cutting-edge technology.",
+    "navigationTitle": "Navigation",
+    "socialTitle": "Follow us",
+    "copyright": "© {{year}} Aura Studio. All rights reserved."
+  }
+}
+

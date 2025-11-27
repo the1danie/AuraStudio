@@ -100,7 +100,7 @@ export function ParticlesBackground() {
   return (
     <canvas
       ref={canvasRef}
-      className="absolute inset-0 w-full h-full pointer-events-none"
+      className="hidden md:block absolute inset-0 w-full h-full pointer-events-none"
       style={{
         background: "radial-gradient(ellipse at top, #1a0033 0%, #0D0D0D 50%)",
       }}

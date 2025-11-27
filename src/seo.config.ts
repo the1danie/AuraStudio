@@ -10,7 +10,7 @@ type RouteMeta = {
 
 export const BRAND_NAME = "Aura Studio";
 export const DEFAULT_SITE_URL =
-  import.meta.env.VITE_SITE_URL ?? "https://yourdomain.com";
+  import.meta.env.VITE_SITE_URL ?? "https://aurastudio-3cee7.web.app";
 export const DEFAULT_OG_IMAGE = `${DEFAULT_SITE_URL.replace(/\/$/, "")}/og-cover.jpg`;
 export const LOGO_URL = `${DEFAULT_SITE_URL.replace(/\/$/, "")}/logo.png`;
 
